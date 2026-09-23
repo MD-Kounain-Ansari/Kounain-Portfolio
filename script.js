@@ -324,7 +324,7 @@ const projectsData = {
   rps: {
     title: 'Stone Paper Scissors Arena Game',
     badge: 'JavaScript Web Game',
-    github: 'https://github.com/MD-Kounain-Ansari',
+    github: 'https://md-kounain-ansari.github.io/Stone-Paper-Scissors/',
     desc: 'Classic interactive Rock-Paper-Scissors game featuring live computer opponent randomized decision logic.',
     features: [
       'Player vs. Computer random choice generation',
